@@ -3,4 +3,4 @@
 This repo contains API stubs for calling the [Business Communications API](https://developers.com/business-communications/rcs-business-messaging/reference/business-communications/rest)
 from Python.
 
-rbm-devrel@google.com
+rbm-devrel.com
